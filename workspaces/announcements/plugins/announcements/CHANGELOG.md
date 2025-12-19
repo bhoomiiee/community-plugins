@@ -1,5 +1,12 @@
 # @backstage-community/plugin-announcements
 
+## 1.2.1
+
+### Patch Changes
+
+- 699c87f: Updated dependency `cross-fetch` to `4.1.0`.
+- fb4ae44: The category and tag content tabs in the admin portal have been rewritten with `@backstage/ui` for users on the new frontend system. Users on the existing frontend system will not see any changes.
+
 ## 1.2.0
 
 ### Minor Changes
